@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      git:
+        uri: https://github.com/hendrybones/config-server
+          clone-start: true
